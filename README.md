@@ -1,6 +1,6 @@
 # Práctica de visualización de datos: accidentes aéreos
 
-Este repositorio contiene los componentes de la práctica de visualización de datos de master universitario de la UOC de ciencia de datos.
+Este repositorio contiene los componentes de la práctica de **visualización de datos** del master universitario de la UOC de ciencia de datos.
 
 En esta versión, se acometen las tareas para la parte 1 de la práctica:
 
