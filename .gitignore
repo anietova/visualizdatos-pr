@@ -1,0 +1,5 @@
+data/*.mdb
+data/*.db
+data/*.ldb
+prp1/*
+.vscode
